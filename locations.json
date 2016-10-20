@@ -1,19 +1,28 @@
 [
 			{
 				"id": 1,
-				"name": "Ninja Tv 2.0 SPMC Update - 16/10",
-				"description": "Full SPMC Build",
-				"screenshot_url": "http://www.goods.pl/images/products/pl/Zestaw_3_gumowych_gwiazdek_do_rzucania_GTTE512.jpg",
-				"brand_url": "https://www.dropbox.com/s/fpgvnpdvldxxdio/sm-base.zip?dl=1",
+				"name": "SkyStream KODI Updater with Adult Add-Ons",
+				"description": "Full KODI Build with Adult Add-Ons",
+				"screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv1_8365777c-7da7-4fed-be2f-d6aa69fecd9e.jpg?14559282071274027496",
+				"brand_url": "https://www.dropbox.com/s/hinbl09i29k13yf/update.zip?dl=1",
 				"version": 20,
 				"update_details": "New Improvements"
 			},
 			{
 				"id": 2,
+				"name": "SkyStreamTV KODI Updater without Adult Add-Ons - Family Friendly",
+				"description": "Full KODI Build - Family Friendly Version",
+				"screenshot_url": "https://cdn.shopify.com/s/files/1/0378/9789/files/skystreamtv2.jpg?14559282071274027496",
+				"brand_url": "https://www.dropbox.com/s/najw834fuxudaef/update.zip?dl=1",
+				"version": 20,
+				"update_details": "New Improvements"
+			},
+			{
+				"id": 3,
 				"name": "Mobdro",
 				"description": "Mobdro Streaming App - Newest Version",
-				"screenshot_url": "https://mobdroapk.org/wp-content/uploads/2016/03/mobdro.jpg?dl=0",
-				"brand_url": "https://updates.mobdro.com/downloads/mobdro.apk?dl=1",
+				"screenshot_url": "https://www.dropbox.com/s/wsfc9rsvicjb728/mobdro.jpg?dl=0",
+				"brand_url": "https://www.dropbox.com/s/9p34h2jhs7f3xy5/mobdro.apk?dl=1",
 				"version": 16,
 				"update_details": "Newest Version"
 			}
