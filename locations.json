@@ -1,8 +1,8 @@
 [
 			{
 				"id": 1,
-				"name": "Ninja Tv 2.0 SPMC Update with Adult Add-Ons",
-				"description": "Full SPMC Build with Adult Add-Ons",
+				"name": "Ninja Tv 2.0 SPMC Update 16/10",
+				"description": "Full SPMC Build",
 				"screenshot_url": "http://www.goods.pl/images/products/pl/Zestaw_3_gumowych_gwiazdek_do_rzucania_GTTE512.jpg",
 				"brand_url": "https://www.dropbox.com/s/hinbl09i29k13yf/update.zip?dl=1",
 				"version": 20,
@@ -10,12 +10,12 @@
 			},
 			{
 				"id": 2,
-				"name": "Ninja Tv 2.0 SPMC Update without Adult Add-Ons - Family Friendly",
-				"description": "Full SPMC Build - Family Friendly Version",
+				"name": "UKTVNOW",
+				"description": "UkTvNow Streaming App",
 				"screenshot_url": "http://www.goods.pl/images/products/pl/Zestaw_3_gumowych_gwiazdek_do_rzucania_GTTE512.jpg",
-				"brand_url": "http://acneproneskinguide.com/casey/1610/com.semperpax.spmc16.zip?dl=1",
-				"version": 20,
-				"update_details": "New Improvements"
+				"brand_url": "http://uktvnow.net/download/uktvnow7.2.apk?dl=1",
+				"version": 30,
+				"update_details": "Newest Version"
 			},
 			{
 				"id": 3,
@@ -23,7 +23,34 @@
 				"description": "Mobdro Streaming App - Newest Version",
 				"screenshot_url": "https://mobdroapk.org/wp-content/uploads/2016/03/mobdro.jpg?dl=0",
 				"brand_url": "https://updates.mobdro.com/downloads/mobdro.apk?dl=1",
-				"version": 16,
+				"version": 40,
+				"update_details": "Newest Version"
+			}
+	                {
+				"id": 4,
+				"name": "ShowBox",
+				"description": "ShowBox Streaming App - Newest Version",
+				"screenshot_url": "https://mobdroapk.org/wp-content/uploads/2016/03/mobdro.jpg?dl=0",
+				"brand_url": "http://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=126419?dl=1",
+				"version": 50,
+				"update_details": "Newest Version"
+			}
+			{
+				"id": 5,
+				"name": "Torrent Stream Controller",
+				"description": "TSC Streaming App - Newest Version",
+				"screenshot_url": "https://mobdroapk.org/wp-content/uploads/2016/03/mobdro.jpg?dl=0",
+				"brand_url": "http://download.vidsoftware.ru/tsc/latest.php?dl=1",
+				"version": 50,
+				"update_details": "Newest Version"
+			}
+			{
+				"id": 6,
+				"name": "Movie HD",
+				"description": "Movie HD Streaming App - Newest Version",
+				"screenshot_url": "https://mobdroapk.org/wp-content/uploads/2016/03/mobdro.jpg?dl=0",
+				"brand_url": "https://web.archive.org/web/20161015153638/http://moviehdappdownload.com/wp-content/uploads/2016/10/moviehd.ui_4.4.0-44.apk?dl=1",
+				"version": 50,
 				"update_details": "Newest Version"
 			}
 ]
